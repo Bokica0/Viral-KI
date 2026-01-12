@@ -133,8 +133,8 @@ const App: React.FC = () => {
           </div>
           <div className="relative">
             <img 
-              src="https://picsum.photos/seed/videopro/800/600" 
-              alt="Video Editing Dashboard" 
+              src="https://images.unsplash.com/photo-1551288049-bbbda536639a?auto=format&fit=crop&q=80&w=1000" 
+              alt="YouTube Analytics und Statistiken Dashboard" 
               className="rounded-3xl border border-slate-700 shadow-2xl"
             />
             <div className="absolute -bottom-6 -right-6 glass-card p-6 rounded-2xl border-purple-500/30">
